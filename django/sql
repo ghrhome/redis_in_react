@@ -1,0 +1,3 @@
+网络类型:专有网络( VPC:vpc-bp1ihm35th6ky7nxhz8dr )	数据库代理状态（原高安全模式）: 未开通
+内网地址:rm-bp149ot7yom3irn3q.mysql.rds.aliyuncs.com	内网端口:3306
+外网地址:rm-bp149ot7yom3irn3q2o.mysql.rds.aliyuncs.com	外网端口:3306
